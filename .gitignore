@@ -3,6 +3,7 @@
 # For example we ignore the hidden files from Pycharm and VS Code.
 .idea/
 .vscode
+posts.db
 
 ### Also any macOS specific files
 .DS_Store
